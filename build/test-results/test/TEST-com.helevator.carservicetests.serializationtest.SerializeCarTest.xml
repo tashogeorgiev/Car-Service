@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.helevator.carservicetests.serializationtest.SerializeCarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-18T08:06:15" hostname="DESKTOP-38S2MH9" time="0.004">
+  <properties/>
+  <testcase name="carSerializationTest()" classname="com.helevator.carservicetests.serializationtest.SerializeCarTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

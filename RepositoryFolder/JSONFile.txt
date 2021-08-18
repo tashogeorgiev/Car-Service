@@ -1,0 +1,61 @@
+[ {
+  "vinForRepair" : "ABCDE123455432191",
+  "dateOfRepair" : [ 2021, 8, 18 ],
+  "mileage" : 10000,
+  "items" : [ {
+    "description" : "Water pump",
+    "quantity" : 1,
+    "metric" : "UNIT",
+    "price" : 120.0
+  }, {
+    "description" : "Motor oil",
+    "quantity" : 1,
+    "metric" : "LITER",
+    "price" : 30.0
+  } ]
+}, {
+  "vinForRepair" : "ABCDE123455432192",
+  "dateOfRepair" : [ 2021, 8, 18 ],
+  "mileage" : 20000,
+  "items" : [ {
+    "description" : "Water pump",
+    "quantity" : 1,
+    "metric" : "UNIT",
+    "price" : 120.0
+  }, {
+    "description" : "Motor oil",
+    "quantity" : 1,
+    "metric" : "LITER",
+    "price" : 30.0
+  } ]
+}, {
+  "vinForRepair" : "ABCDE123455432199",
+  "dateOfRepair" : [ 2021, 8, 18 ],
+  "mileage" : 250000,
+  "items" : [ {
+    "description" : "Water pump",
+    "quantity" : 1,
+    "metric" : "UNIT",
+    "price" : 120.0
+  }, {
+    "description" : "Motor oil",
+    "quantity" : 1,
+    "metric" : "LITER",
+    "price" : 30.0
+  } ]
+}, {
+  "vinForRepair" : "ABCDE123455432190",
+  "dateOfRepair" : [ 2021, 8, 18 ],
+  "mileage" : 300000,
+  "items" : [ {
+    "description" : "Water pump",
+    "quantity" : 1,
+    "metric" : "UNIT",
+    "price" : 120.0
+  }, {
+    "description" : "Motor oil",
+    "quantity" : 1,
+    "metric" : "LITER",
+    "price" : 30.0
+  } ]
+} ]

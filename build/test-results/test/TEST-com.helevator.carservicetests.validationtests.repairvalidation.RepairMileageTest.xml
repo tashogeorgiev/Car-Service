@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.helevator.carservicetests.validationtests.repairvalidation.RepairMileageTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-18T08:06:15" hostname="DESKTOP-38S2MH9" time="0.002">
+  <properties/>
+  <testcase name="mileageTest()" classname="com.helevator.carservicetests.validationtests.repairvalidation.RepairMileageTest" time="0.0"/>
+  <testcase name="mileageUnder0Test()" classname="com.helevator.carservicetests.validationtests.repairvalidation.RepairMileageTest" time="0.001"/>
+  <testcase name="mileageParseExceptionTest()" classname="com.helevator.carservicetests.validationtests.repairvalidation.RepairMileageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

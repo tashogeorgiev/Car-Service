@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.helevator.carservicetests.commandstests.AddCarCommandTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-18T08:06:14" hostname="DESKTOP-38S2MH9" time="0.067">
+  <properties/>
+  <testcase name="addCarTest()" classname="com.helevator.carservicetests.commandstests.AddCarCommandTest" time="0.061"/>
+  <testcase name="addCarWrongInputTest()" classname="com.helevator.carservicetests.commandstests.AddCarCommandTest" time="0.0"/>
+  <testcase name="addCarWrongInputVariableTest()" classname="com.helevator.carservicetests.commandstests.AddCarCommandTest" time="0.002"/>
+  <system-out><![CDATA[Empty cars data file.
+Empty cars data file.
+Empty cars data file.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

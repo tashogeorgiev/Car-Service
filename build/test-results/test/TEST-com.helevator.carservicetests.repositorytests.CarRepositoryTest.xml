@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.helevator.carservicetests.repositorytests.CarRepositoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-18T08:06:14" hostname="DESKTOP-38S2MH9" time="0.019">
+  <properties/>
+  <testcase name="addCarTest()" classname="com.helevator.carservicetests.repositorytests.CarRepositoryTest" time="0.003"/>
+  <testcase name="readCarsTest()" classname="com.helevator.carservicetests.repositorytests.CarRepositoryTest" time="0.003"/>
+  <testcase name="doesNotContainCarTest()" classname="com.helevator.carservicetests.repositorytests.CarRepositoryTest" time="0.002"/>
+  <testcase name="setCurrencyTest()" classname="com.helevator.carservicetests.repositorytests.CarRepositoryTest" time="0.0"/>
+  <testcase name="containsCarTest()" classname="com.helevator.carservicetests.repositorytests.CarRepositoryTest" time="0.002"/>
+  <system-out><![CDATA[Empty cars data file.
+Empty cars data file.
+Empty cars data file.
+Empty cars data file.
+Empty cars data file.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
