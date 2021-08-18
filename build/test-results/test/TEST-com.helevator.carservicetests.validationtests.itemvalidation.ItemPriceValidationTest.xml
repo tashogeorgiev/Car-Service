@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.helevator.carservicetests.validationtests.itemvalidation.ItemPriceValidationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-18T08:06:15" hostname="DESKTOP-38S2MH9" time="0.005">
+  <properties/>
+  <testcase name="itemPriceUnder0ExceptionTest()" classname="com.helevator.carservicetests.validationtests.itemvalidation.ItemPriceValidationTest" time="0.002"/>
+  <testcase name="itemPriceParseExceptionTest()" classname="com.helevator.carservicetests.validationtests.itemvalidation.ItemPriceValidationTest" time="0.001"/>
+  <testcase name="validateItemPriceTest()" classname="com.helevator.carservicetests.validationtests.itemvalidation.ItemPriceValidationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
